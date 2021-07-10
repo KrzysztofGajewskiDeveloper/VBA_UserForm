@@ -14,6 +14,8 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
+
+
 Option Explicit
 
 Private Sub Group_A_Change()
@@ -893,12 +895,8 @@ Dim output As String
         wsData.Range("O1").Clear
         
     Unload Me
-
 End Sub
+
 Private Sub Cancel_Button_Click()
     Unload Me
-End Sub
-
-Private Sub UserForm_Click()
-
 End Sub
