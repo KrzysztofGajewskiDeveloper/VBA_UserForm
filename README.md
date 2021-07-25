@@ -20,4 +20,3 @@ After ticking a checkbox - a list box pop out. The user can choose how many comm
 
 Save button triggers the standarized output.  
 
-![output](https://user-images.githubusercontent.com/86082905/126913173-704178ce-03f2-4b95-8187-5561290ae352.JPG)
