@@ -8,7 +8,6 @@ The form will pop out when the user will click on a comments section (column Com
 
 The user is able to choose a section, provide the comments and to choose categories from drop-down boxes.
 
-![cate2](https://user-images.githubusercontent.com/86082905/126913171-fb9673a1-d61f-4275-964f-0989e701176f.JPG)
 ![33](https://user-images.githubusercontent.com/86082905/126913172-0fe7b5f1-7676-4ab6-b00c-3942aa7271cc.JPG)
 
 The output 
