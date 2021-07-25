@@ -18,6 +18,6 @@ After ticking a checkbox - a list box pop out. The user can choose how many comm
 
 ![33](https://user-images.githubusercontent.com/86082905/126913172-0fe7b5f1-7676-4ab6-b00c-3942aa7271cc.JPG)
 
-Save button triggers the standarizd output.  
+Save button triggers the standarized output.  
 
 ![output](https://user-images.githubusercontent.com/86082905/126913173-704178ce-03f2-4b95-8187-5561290ae352.JPG)
