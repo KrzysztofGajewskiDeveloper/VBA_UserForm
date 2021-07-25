@@ -16,7 +16,8 @@ The form will pop out when the user clicks on the comments section.
 
 After ticking a checkbox - a list box pop out. The user can choose how many comments to provide and how to categorize the comments by using combo boxes (drop down lists)
 
-
+![categ](https://user-images.githubusercontent.com/86082905/126914699-bd4e188f-d402-4680-b523-b16d538363b4.JPG)
 
 Save button triggers the standarized output.  
 
+![outpppppp](https://user-images.githubusercontent.com/86082905/126914697-b16d02c0-166a-43a3-ba40-1a0cd921dee4.JPG)
