@@ -2,7 +2,7 @@
 
   The user form designed to help users to validate the input through standarization to help them avoid mistakes.
 
-The form will pop out when the user will click on a comments section.
+The form will pop out when the user clicks on the comments section.
 
     If Target.Column = 7 And Target.Row <> 1 And Target.Row <= LastRow Then
         wsData.Range("O1") = Target.Address
